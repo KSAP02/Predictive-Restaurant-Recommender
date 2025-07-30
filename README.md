@@ -1,4 +1,4 @@
-# Customer_Vendor Prediction System
+# Predictive Restaurant Recommender
 
 ## 🧠 Problem Statement
 This project aims to predict which vendor a customer is likely to place an order with, using available customer and location metadata. The prediction is made for each possible (customer, location, vendor) combination.
